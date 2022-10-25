@@ -5,7 +5,7 @@
 ### Contact 📭
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aksghwoddl@gmail.com)](mailto:aksghwoddl@gmail.com)
 <a href="https://devyo-111commit.tistory.com/"><img src="https://img.shields.io/badge/Tstory-d14836?style=flat-square&logo=Blogger&logoColor=white&link">
-
+<a href="https://www.instagram.com/2_yohi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link">
   
 ### Tech Stack 💻
   <p>
