@@ -11,6 +11,7 @@
   <p>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=Sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/Java-d14836?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/Coroutine-3DDC84?style=for-the-badge&logo=&logoColor=white">
