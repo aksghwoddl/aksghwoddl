@@ -30,6 +30,10 @@
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white">
     <img src="https://img.shields.io/badge/FireBase-FFCA28?style=for-the-badge&logo=FireBase&logoColor=white">
   </p>
+  
+  <br>
+  
+  ![dey_yo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksghwoddl&show_icons=true&theme=dark)
 <!--
 **aksghwoddl/aksghwoddl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
