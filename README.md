@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/Coroutine-3DDC84?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/DataBinding-3DDC84?style=for-the-badge&logo=&logoColor=white">
     <img src="https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/DataStore-3DDC84?style=for-the-badge&logo=&logoColor=white">
   </p>
   
 ### Skill & Tools 🛠
