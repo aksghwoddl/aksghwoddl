@@ -30,11 +30,11 @@
     <img src="https://img.shields.io/badge/FireBase-FFCA28?style=for-the-badge&logo=FireBase&logoColor=white">
   </p>
   
-  <br>
   
   ### Apps 📱
   #### 1️⃣ 비비(BeforeBeach) <br>
   ##### [PlayStore](https://play.google.com/store/apps/details?id=com.lee.beachcongetion) <br>
+  ##### [Notion](https://www.notion.so/de127c44cf44425d96748bba2778830d?p=f5615cd6aee7406aa06c4e15509b6cb2&pm=c) <br>
   <img width="50%" alt="app_main" src="https://user-images.githubusercontent.com/65700842/230947121-2776f9e4-33bd-4837-9fc8-6da33ee8668b.png">
   
   <br>
